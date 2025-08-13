@@ -1,0 +1,13 @@
+# root
+.DS_Store
+.env
+#node
+node_modules
+dist
+#java
+**/build
+**/.gradle
+#docker
+**/.docker
+**/.vscode
+**/target
